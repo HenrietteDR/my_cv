@@ -1,6 +1,7 @@
 h1
 {
-	color:#008080;
+	color:#ED4C07;
+	text-align:left;
 }
 a 
 {
@@ -9,4 +10,22 @@ a
 body
 {
 	color:#808080;
+}
+p 
+{
+	margin-top:0px;
+	margin-right:240px;
+	margin-bottom:0px;
+	margin-left:40px;
+	padding-top:4px;
+	padding-right:240px;
+	padding-bottom:4px;
+	padding-left:4px;
+}
+h4
+{
+	margin-left:4px;
+	margin-top:0px;
+	margin-right:4px;
+	margin-bottom:0px;
 }
